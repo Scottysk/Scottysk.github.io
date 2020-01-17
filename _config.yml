@@ -1,11 +1,11 @@
 # Site settings
 author: Scott Kwasnicki
-title: 
+title: Scotty's Blog
 header-img: img/home-bg.png
 email: kwasnickisw@mail.irsc.edu
 copyright_name: Scott Kwasnicki
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Scotty's blog for Learn.co
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Scottysk
